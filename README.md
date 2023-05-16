@@ -1,4 +1,4 @@
-# a11y-workshop
+# Accessibility Links
 Accessibility training for designers and developers.
 
 ## Accessibility Auditing Ideas 
