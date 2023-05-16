@@ -34,7 +34,9 @@ https://dev.to/hxlnt/these-vs-code-extensions-help-you-fix-accessibility-and-com
 
 ## Design Support Tools
 
-- Contrast App for MacOS - https://apps.apple.com/us/app/contrast-color-accessibility/id1254981365?mt=12
+- [Contrast App for MacOS](https://apps.apple.com/us/app/contrast-color-accessibility/id1254981365?mt=12) - Combine this simple little menu bar app with your favorite design tool and design with accessibility in mind.
+
+
 
 - Color Blindness (Mac/Windows/Linux) - https://colororacle.org/
 
