@@ -1,5 +1,5 @@
 # Accessibility Links
-Accessibility training for designers and developers.
+Accessibility rersources for designers and developers.
 
 ## Accessibility Auditing Ideas 
 
