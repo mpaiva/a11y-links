@@ -59,6 +59,45 @@ https://dev.to/hxlnt/these-vs-code-extensions-help-you-fix-accessibility-and-com
 
 - [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility) - This extension is here to help you get feedback on what parts need some more attention for it to be accessible, this is just the basics and doesn't cover all the rules but will help with making your project more accessible.
 
+## Accessibility For UX Designers
+Helpful starter guides on how to design accessible and inclusive websites
+
+Accessibility For Designers: Where Do I Start?, by Stéphanie Walter
+https://lnkd.in/ecG5qASY
+
+Designing For Accessibility Is Not That Hard, by Pablo Stanley
+https://lnkd.in/efAHhwUC
+
+Things Every Designer Needs to Know About Accessibility, by Jesse Hausler
+https://lnkd.in/eYwAMHsU
+
+Learn Accessibility: Free Course, by Carie Fisher, MS, CPWA, Alexandra White, Rachel Andrew
+https://lnkd.in/eB3RXmZN
+
+Accessibility For UX Designers, by Peter V.
+https://lnkd.in/eUyhJPY9
+
+A Complete Guide To Accessible Front-End Components, by Vitaly Friedman
+https://lnkd.in/gp45Ji5
+
+Stark’s Web Accessibility Library
+https://lnkd.in/eistWYpN
+
+Accessibility For Teams
+https://lnkd.in/e_hqz-aQ
+
+Making A Strong Case For Accessibility, by Todd Libby
+https://lnkd.in/ehGivAdY
+
+A Designer's Guide To Documenting Accessibility, by Stéphanie Walter
+https://lnkd.in/eZRZT4zd
+
+Accessibility Guidelines for UX Designers, by Avinash Kaur
+https://lnkd.in/eNgxKtjv
+
+Giving A Damn About Accessibility, by Sheri Byrne-Haber (disabled)
+https://lnkd.in/eCeFutuJ
+
 ## Screen Reader Keyboard Shortcuts
 
 ### Desktop
