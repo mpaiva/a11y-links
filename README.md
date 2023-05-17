@@ -62,40 +62,40 @@ https://dev.to/hxlnt/these-vs-code-extensions-help-you-fix-accessibility-and-com
 ## Accessibility For UX Designers
 Helpful starter guides on how to design accessible and inclusive websites
 
-Accessibility For Designers: Where Do I Start?, by Stéphanie Walter
+- Accessibility For Designers: Where Do I Start?, by Stéphanie Walter
 https://lnkd.in/ecG5qASY
 
-Designing For Accessibility Is Not That Hard, by Pablo Stanley
+- Designing For Accessibility Is Not That Hard, by Pablo Stanley
 https://lnkd.in/efAHhwUC
 
-Things Every Designer Needs to Know About Accessibility, by Jesse Hausler
+- Things Every Designer Needs to Know About Accessibility, by Jesse Hausler
 https://lnkd.in/eYwAMHsU
 
-Learn Accessibility: Free Course, by Carie Fisher, MS, CPWA, Alexandra White, Rachel Andrew
+- Learn Accessibility: Free Course, by Carie Fisher, MS, CPWA, Alexandra White, Rachel Andrew
 https://lnkd.in/eB3RXmZN
 
-Accessibility For UX Designers, by Peter V.
+- Accessibility For UX Designers, by Peter V.
 https://lnkd.in/eUyhJPY9
 
-A Complete Guide To Accessible Front-End Components, by Vitaly Friedman
+- A Complete Guide To Accessible Front-End Components, by Vitaly Friedman
 https://lnkd.in/gp45Ji5
 
-Stark’s Web Accessibility Library
+- Stark’s Web Accessibility Library
 https://lnkd.in/eistWYpN
 
-Accessibility For Teams
+- Accessibility For Teams
 https://lnkd.in/e_hqz-aQ
 
-Making A Strong Case For Accessibility, by Todd Libby
+- Making A Strong Case For Accessibility, by Todd Libby
 https://lnkd.in/ehGivAdY
 
-A Designer's Guide To Documenting Accessibility, by Stéphanie Walter
+- A Designer's Guide To Documenting Accessibility, by Stéphanie Walter
 https://lnkd.in/eZRZT4zd
 
-Accessibility Guidelines for UX Designers, by Avinash Kaur
+- Accessibility Guidelines for UX Designers, by Avinash Kaur
 https://lnkd.in/eNgxKtjv
 
-Giving A Damn About Accessibility, by Sheri Byrne-Haber (disabled)
+- Giving A Damn About Accessibility, by Sheri Byrne-Haber (disabled)
 https://lnkd.in/eCeFutuJ
 
 ## Screen Reader Keyboard Shortcuts
