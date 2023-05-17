@@ -62,41 +62,40 @@ https://dev.to/hxlnt/these-vs-code-extensions-help-you-fix-accessibility-and-com
 ## Accessibility For UX Designers
 Helpful starter guides on how to design accessible and inclusive websites
 
-- Accessibility For Designers: Where Do I Start?, by Stéphanie Walter
-https://lnkd.in/ecG5qASY
+- [Accessibility For Designers: Where Do I Start?](https://lnkd.in/ecG5qASY), by Stéphanie Walter
 
-- Designing For Accessibility Is Not That Hard, by Pablo Stanley
-https://lnkd.in/efAHhwUC
 
-- Things Every Designer Needs to Know About Accessibility, by Jesse Hausler
-https://lnkd.in/eYwAMHsU
+- [Designing For Accessibility Is Not That Hard](https://lnkd.in/efAHhwUC), by Pablo Stanley
 
-- Learn Accessibility: Free Course, by Carie Fisher, MS, CPWA, Alexandra White, Rachel Andrew
-https://lnkd.in/eB3RXmZN
 
-- Accessibility For UX Designers, by Peter V.
-https://lnkd.in/eUyhJPY9
+- [Things Every Designer Needs to Know About Accessibility](https://lnkd.in/eYwAMHsU), by Jesse Hausler
 
-- A Complete Guide To Accessible Front-End Components, by Vitaly Friedman
-https://lnkd.in/gp45Ji5
+- [Learn Accessibility: Free Course](https://lnkd.in/eB3RXmZN), by Carie Fisher, MS, CPWA, Alexandra White, Rachel Andrew
 
-- Stark’s Web Accessibility Library
-https://lnkd.in/eistWYpN
 
-- Accessibility For Teams
-https://lnkd.in/e_hqz-aQ
+- [Accessibility For UX Designers](https://lnkd.in/eUyhJPY9), by Peter V.
 
-- Making A Strong Case For Accessibility, by Todd Libby
-https://lnkd.in/ehGivAdY
 
-- A Designer's Guide To Documenting Accessibility, by Stéphanie Walter
-https://lnkd.in/eZRZT4zd
+- [A Complete Guide To Accessible Front-End Components](https://lnkd.in/gp45Ji5), by Vitaly Friedman
 
-- Accessibility Guidelines for UX Designers, by Avinash Kaur
-https://lnkd.in/eNgxKtjv
 
-- Giving A Damn About Accessibility, by Sheri Byrne-Haber (disabled)
-https://lnkd.in/eCeFutuJ
+- [Stark’s Web Accessibility Library](https://lnkd.in/eistWYpN)
+
+
+- [Accessibility For Teams](https://lnkd.in/e_hqz-aQ)
+
+
+- [Making A Strong Case For Accessibility](https://lnkd.in/ehGivAdY), by Todd Libby
+
+
+- [A Designer's Guide To Documenting Accessibility](https://lnkd.in/eZRZT4zd), by Stéphanie Walter
+
+
+- [Accessibility Guidelines for UX Designers](https://lnkd.in/eNgxKtjv), by Avinash Kaur
+
+
+- [Giving A Damn About Accessibility](https://lnkd.in/eCeFutuJ), by Sheri Byrne-Haber (disabled)
+
 
 ## Screen Reader Keyboard Shortcuts
 
